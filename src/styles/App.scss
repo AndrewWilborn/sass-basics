@@ -1,0 +1,7 @@
+@use "variables" as var;
+@use "../components/Box/Box";
+
+body {
+  background-color: var.$main-color;
+  color: var.$secondary-color;
+}
